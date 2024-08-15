@@ -36,7 +36,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DanhGiaPaper.md",
+                "file": "Phuc/CUE-net.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DanhGiaPaper.md",
+                "file": "Phuc/CUE-net.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DanhGiaPaper.md",
+                "file": "Phuc/CUE-net.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DanhGiaPaper.md"
+                "file": "Phuc/CUE-net.md"
               }
             }
           }
@@ -172,15 +172,15 @@
   },
   "active": "e3ac309eea1a87ab",
   "lastOpenFiles": [
+    "DanhGiaPaper.md",
+    "Phuc/CUE-net.md",
     "PhuongAnTrienKhai.canvas",
-    "Phuc/Phúc đẹp trai.md",
     "Phuc",
     "Huy/Untitled.md",
     "Huy",
     "Han/Untitled.md",
     "Han",
     "Papers/Effectiveness of Synthetic Images in Violence Detection_preprint.pdf",
-    "DanhGiaPaper.md",
     "Papers/Towards Explainable Harmful Meme Detection through.pdf",
     "Papers/Towards Explainable Harmful Meme Detection through.pdf.crdownload",
     "Papers/Invariant Meets Specific A Scalable Harmful Memes Detection.pdf",
