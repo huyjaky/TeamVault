@@ -1,1 +1,8 @@
-{}
+{
+  "theme": "obsidian",
+  "accentColor": "#44f8ec",
+  "interfaceFontFamily": "JetBrainsMonoNL Nerd Font",
+  "monospaceFontFamily": "JetBrainsMono Nerd Font Mono",
+  "baseFontSize": 22,
+  "cssTheme": "Tokyo Night Storm"
+}

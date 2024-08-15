@@ -1,53 +1,51 @@
 {
   "main": {
-    "id": "b9f02321ef2c6740",
+    "id": "fa91b254e1387c92",
     "type": "split",
     "children": [
       {
-        "id": "a2e4be4cc2592fa6",
+        "id": "a9f67b7a39c900df",
         "type": "tabs",
         "children": [
           {
-            "id": "d2bbff75b87958e1",
+            "id": "3cc60de3e0f8a876",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "05497f11e2d39f49",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
               "state": {
-                "file": "Welcome.md",
-                "mode": "source",
-                "source": false
+                "file": "PhuongAnTrienKhai.canvas",
+                "viewState": {
+                  "x": 940.9719920175964,
+                  "y": 1035.1785672279034,
+                  "zoom": -1.1214514915600748
+                }
               }
             }
           }
-        ]
-      },
-      {
-        "id": "80b7ac30740e99df",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "925abcddb243f985",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "6239862229d191a8",
+    "id": "48d46ff5a299f36e",
     "type": "split",
     "children": [
       {
-        "id": "e35e6024174dbc86",
+        "id": "51e014f4059b42b1",
         "type": "tabs",
         "children": [
           {
-            "id": "4341493ede706d63",
+            "id": "d2c35791f9e8e177",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -57,7 +55,7 @@
             }
           },
           {
-            "id": "31a9355c876f44eb",
+            "id": "208bcc6a6f0a89b7",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -72,7 +70,7 @@
             }
           },
           {
-            "id": "478dc7e63c618e5b",
+            "id": "b22f3964f840faf6",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -83,23 +81,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 273.5086555480957
   },
   "right": {
-    "id": "e557fe4aa8e917bc",
+    "id": "08f257fc28ec3881",
     "type": "split",
     "children": [
       {
-        "id": "5fe335bbd4349b42",
+        "id": "54dc4d3baf47d0e4",
         "type": "tabs",
         "children": [
           {
-            "id": "4f17312a1af2e8e4",
+            "id": "937902a0d1cc1f69",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome.md",
+                "file": "PhuongAnTrienKhai.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,19 +109,19 @@
             }
           },
           {
-            "id": "50b78253b782c871",
+            "id": "9f458da21af8f4d5",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Welcome.md",
+                "file": "PhuongAnTrienKhai.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "517470820a0a742f",
+            "id": "2dd436f7a3945305",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -134,12 +132,12 @@
             }
           },
           {
-            "id": "b6f748af64e57623",
+            "id": "1698b4a09a6ae8d2",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.md"
+                "file": "PhuongAnTrienKhai.canvas"
               }
             }
           }
@@ -160,8 +158,59 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d2bbff75b87958e1",
+  "active": "05497f11e2d39f49",
   "lastOpenFiles": [
-    "Welcome.md"
+    "MaTran/vector/Vector.md",
+    "Images/Pasted image 20240814231328.png",
+    "Images/Pasted image 20240814231300.png",
+    "Images/Pasted image 20240814230503.png",
+    "Images/Pasted image 20240814225849.png",
+    "Images/Pasted image 20240814225218.png",
+    "Images/Pasted image 20240814224851.png",
+    "Images/Pasted image 20240814224131.png",
+    "Images/Pasted image 20240814223712.png",
+    "PhuongAnTrienKhai.canvas",
+    "MaTran/vector/HeTrucChuan&MaTranTrucGiao/HeTrucChuan&MaTranTrucGiao.md",
+    "MaTran/vector/HeTrucChuan&MaTranTrucGiao/TinhChat.canvas",
+    "MaTran/vector/HeTrucChuan&MaTranTrucGiao/HeTrucChuan&MaTranTrucGiaoDocThem.md",
+    "MaTran/vector/HeTrucChuan&MaTranTrucGiao/Images/Pasted image 20240814104559.png",
+    "MaTran/vector/HeTrucChuan&MaTranTrucGiao/Images/Pasted image 20240814104449.png",
+    "MaTran/vector/HeTrucChuan&MaTranTrucGiao/Images",
+    "ToHopTuyenTinhKhongGianSinh/KhongGianVector/CoSoKhongGianVecTor/CoSoKhongGianVector.md",
+    "ToHopTuyenTinhKhongGianSinh/KhongGianVector/CoSoKhongGianVecTor/CoSoKhongGianVectorDocThem.md",
+    "MaTran/vector/HeTrucChuan&MaTranTrucGiao",
+    "MaTran/vector",
+    "ToHopTuyenTinhKhongGianSinh/KhongGianVector/KhongGianEuclide.md",
+    "ToHopTuyenTinhKhongGianSinh/KhongGianVector/KhongGianVector.md",
+    "ToHopTuyenTinhKhongGianSinh/KhongGianVector/KhongGianVectorCon.md",
+    "ToHopTuyenTinhKhongGianSinh/ToHopTuyenTinh/TinhChatToHopTuyenTinh.md",
+    "ToHopTuyenTinhKhongGianSinh/ToHopTuyenTinh/ToHopTuyenTinh.md",
+    "MaTran/ThuocTinhMaTran/HangMaTran/HangMaTran.md",
+    "MaTran/ThuocTinhMaTran/HangMaTran/HangMaTran2.md",
+    "ToHopTuyenTinhKhongGianSinh/DocLap&PhuThuocTuyenTinh/DocLap&PhuThuocTuyenTinh.md",
+    "ToHopTuyenTinhKhongGianSinh/DocLap&PhuThuocTuyenTinh/Nhap.canvas",
+    "ToHopTuyenTinhKhongGianSinh/DocLap&PhuThuocTuyenTinh/Images",
+    "ToHopTuyenTinhKhongGianSinh/DocLap&PhuThuocTuyenTinh",
+    "ToHopTuyenTinhKhongGianSinh/KhongGianVector/CoSoKhongGianVecTor/TongHop.canvas",
+    "ToHopTuyenTinhKhongGianSinh/KhongGianVector/CoSoKhongGianVecTor/Images",
+    "ToHopTuyenTinhKhongGianSinh/KhongGianVector/CoSoKhongGianVecTor",
+    "ToHopTuyenTinhKhongGianSinh/ToHopTuyenTinh/Images/Images",
+    "MaTran/MaTran (Matrix).md",
+    "ToHopTuyenTinhKhongGianSinh/KhongGianVector/Images",
+    "Untitled.md",
+    "MaTran/ThuocTinhMaTran/ThuocTinhMaTran.md",
+    "ToHopTuyenTinhKhongGianSinh/KhongGianVector",
+    "MaTran/ThuocTinhMaTran/CacLoaiMaTran/MaTranDonVi.md",
+    "MaTran/ThuocTinhMaTran/PhepNhan/PhepNhan.md",
+    "MaTran/ThuocTinhMaTran/PhepNhan/PhepNhan.canvas",
+    "MaTran/ThuocTinhMaTran/DinhThuc/Det() in matrix.md",
+    "MaTran/ThuocTinhMaTran/CacLoaiMaTran/CacLoaiMaTran.md",
+    "MaTran/ThuocTinhMaTran/CacLoaiMaTran/MaTranTamGiac.md",
+    "MaTran/ThuocTinhMaTran/CacLoaiMaTran/Untitled.canvas",
+    "MaTran/ThuocTinhMaTran/ChuyenVi/ChuyenVi.md",
+    "MaTran/ThuocTinhMaTran/DinhThuc/TinhChatDinhThuc.md",
+    "MaTran/ThuocTinhMaTran/CacLoaiMaTran/MaTranDuongCheo.md",
+    "huy dep.md",
+    "Untitled 1.canvas"
   ]
 }
