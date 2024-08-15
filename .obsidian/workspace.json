@@ -8,25 +8,14 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3cc60de3e0f8a876",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
             "id": "05497f11e2d39f49",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "PhuongAnTrienKhai.canvas",
-                "viewState": {
-                  "x": 3064.6484702922385,
-                  "y": 774.3735461553691,
-                  "zoom": -3.164317525737839
-                }
+                "file": "Han/Han.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -36,14 +25,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Phuc/Phúc đẹp trai.md",
+                "file": "DanhGiaPaper.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -109,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Phuc/Phúc đẹp trai.md",
+                "file": "Han/Han.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Phuc/Phúc đẹp trai.md",
+                "file": "Han/Han.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Phuc/Phúc đẹp trai.md"
+                "file": "Han/Han.md"
               }
             }
           }
@@ -170,17 +158,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e3ac309eea1a87ab",
+  "active": "05497f11e2d39f49",
   "lastOpenFiles": [
+    "PhuongAnTrienKhai.canvas",
+    "DanhGiaPaper.md",
+    "Han/Han.md",
     "Phuc/Phúc đẹp trai.md",
     "Phuc",
     "Huy/Untitled.md",
     "Huy",
-    "Han/Untitled.md",
     "Han",
     "Papers/Effectiveness of Synthetic Images in Violence Detection_preprint.pdf",
-    "DanhGiaPaper.md",
-    "PhuongAnTrienKhai.canvas",
     "Papers/Towards Explainable Harmful Meme Detection through.pdf",
     "Papers/Towards Explainable Harmful Meme Detection through.pdf.crdownload",
     "Papers/Invariant Meets Specific A Scalable Harmful Memes Detection.pdf",
@@ -224,7 +212,6 @@
     "MaTran/ThuocTinhMaTran/CacLoaiMaTran/MaTranTamGiac.md",
     "MaTran/ThuocTinhMaTran/CacLoaiMaTran/Untitled.canvas",
     "MaTran/ThuocTinhMaTran/ChuyenVi/ChuyenVi.md",
-    "MaTran/ThuocTinhMaTran/DinhThuc/TinhChatDinhThuc.md",
     "Untitled 1.canvas"
   ]
 }
