@@ -8,14 +8,25 @@
         "type": "tabs",
         "children": [
           {
+            "id": "3cc60de3e0f8a876",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
             "id": "05497f11e2d39f49",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Han/Han.md",
-                "mode": "source",
-                "source": false
+                "file": "PhuongAnTrienKhai.canvas",
+                "viewState": {
+                  "x": 3064.6484702922385,
+                  "y": 774.3735461553691,
+                  "zoom": -3.164317525737839
+                }
               }
             }
           },
@@ -31,7 +42,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -97,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Han/Han.md",
+                "file": "DanhGiaPaper.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Han/Han.md",
+                "file": "DanhGiaPaper.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Han/Han.md"
+                "file": "DanhGiaPaper.md"
               }
             }
           }
@@ -158,17 +170,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "05497f11e2d39f49",
+  "active": "e3ac309eea1a87ab",
   "lastOpenFiles": [
     "PhuongAnTrienKhai.canvas",
-    "DanhGiaPaper.md",
-    "Han/Han.md",
     "Phuc/Phúc đẹp trai.md",
     "Phuc",
     "Huy/Untitled.md",
     "Huy",
+    "Han/Untitled.md",
     "Han",
     "Papers/Effectiveness of Synthetic Images in Violence Detection_preprint.pdf",
+    "DanhGiaPaper.md",
     "Papers/Towards Explainable Harmful Meme Detection through.pdf",
     "Papers/Towards Explainable Harmful Meme Detection through.pdf.crdownload",
     "Papers/Invariant Meets Specific A Scalable Harmful Memes Detection.pdf",
