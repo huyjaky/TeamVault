@@ -36,7 +36,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Phuc/Untitled.md",
+                "file": "Phuc/Phúc đẹp trai.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 273.5086555480957
+    "width": 222.5
   },
   "right": {
     "id": "08f257fc28ec3881",
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Phuc/Untitled.md",
+                "file": "Phuc/Phúc đẹp trai.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Phuc/Untitled.md",
+                "file": "Phuc/Phúc đẹp trai.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Phuc/Untitled.md"
+                "file": "Phuc/Phúc đẹp trai.md"
               }
             }
           }
@@ -170,14 +170,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d2c35791f9e8e177",
+  "active": "e3ac309eea1a87ab",
   "lastOpenFiles": [
-    "Huy/Untitled.md",
-    "Phuc/Untitled.md",
-    "Han/Untitled.md",
+    "Phuc/Phúc đẹp trai.md",
     "Phuc",
-    "Han",
+    "Huy/Untitled.md",
     "Huy",
+    "Han/Untitled.md",
+    "Han",
     "Papers/Effectiveness of Synthetic Images in Violence Detection_preprint.pdf",
     "DanhGiaPaper.md",
     "PhuongAnTrienKhai.canvas",
