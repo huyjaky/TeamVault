@@ -23,15 +23,30 @@
               "state": {
                 "file": "PhuongAnTrienKhai.canvas",
                 "viewState": {
-                  "x": 940.9719920175964,
-                  "y": 1035.1785672279034,
-                  "zoom": -1.1214514915600748
+                  "x": 3064.6484702922385,
+                  "y": 774.3735461553691,
+                  "zoom": -3.164317525737839
+                }
+              }
+            }
+          },
+          {
+            "id": "e3ac309eea1a87ab",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "PhuongAnTrienKhai.canvas",
+                "viewState": {
+                  "x": 810.9753028849691,
+                  "y": 894.6276425800065,
+                  "zoom": -1.1643176052106958
                 }
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -158,8 +173,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "05497f11e2d39f49",
+  "active": "e3ac309eea1a87ab",
   "lastOpenFiles": [
+    "DanhGiaPaper.md",
+    "Papers/Towards Explainable Harmful Meme Detection through.pdf",
+    "Papers/Towards Explainable Harmful Meme Detection through.pdf.crdownload",
+    "Papers/Invariant Meets Specific A Scalable Harmful Memes Detection.pdf",
+    "Papers/Invariant Meets Specific A Scalable Harmful Memes Detection.pdf.crdownload",
+    "Papers/Toxic Memes A Survey of Computational Perspectives on the Detection and Explanation of.pdf",
+    "Papers/Toxic Memes A Survey of Computational Perspectives on the Detection and Explanation of.pdf.crdownload",
+    "Papers/DETECTING HARMFUL CONTENT ON ONLINE PLATFORMS WHAT PLATFORMS NEED VS. WHERE RESEARCH EFFORTS GO.pdf",
+    "Papers/DETECTING HARMFUL CONTENT ON ONLINE PLATFORMS WHAT PLATFORMS NEED VS. WHERE RESEARCH EFFORTS GO.pdf.crdownload",
+    "Papers/An Overview of Violence Detection Techniques_ Current%0AChallenges and Future Directions.pdf",
+    "Papers/An Overview of Violence Detection Techniques_ Current%0AChallenges and Future Directions.pdf.crdownload",
+    "PhuongAnTrienKhai.canvas",
+    "Untitled.canvas",
     "MaTran/vector/Vector.md",
     "Images/Pasted image 20240814231328.png",
     "Images/Pasted image 20240814231300.png",
@@ -169,17 +197,13 @@
     "Images/Pasted image 20240814224851.png",
     "Images/Pasted image 20240814224131.png",
     "Images/Pasted image 20240814223712.png",
-    "PhuongAnTrienKhai.canvas",
     "MaTran/vector/HeTrucChuan&MaTranTrucGiao/HeTrucChuan&MaTranTrucGiao.md",
     "MaTran/vector/HeTrucChuan&MaTranTrucGiao/TinhChat.canvas",
     "MaTran/vector/HeTrucChuan&MaTranTrucGiao/HeTrucChuan&MaTranTrucGiaoDocThem.md",
     "MaTran/vector/HeTrucChuan&MaTranTrucGiao/Images/Pasted image 20240814104559.png",
     "MaTran/vector/HeTrucChuan&MaTranTrucGiao/Images/Pasted image 20240814104449.png",
-    "MaTran/vector/HeTrucChuan&MaTranTrucGiao/Images",
     "ToHopTuyenTinhKhongGianSinh/KhongGianVector/CoSoKhongGianVecTor/CoSoKhongGianVector.md",
     "ToHopTuyenTinhKhongGianSinh/KhongGianVector/CoSoKhongGianVecTor/CoSoKhongGianVectorDocThem.md",
-    "MaTran/vector/HeTrucChuan&MaTranTrucGiao",
-    "MaTran/vector",
     "ToHopTuyenTinhKhongGianSinh/KhongGianVector/KhongGianEuclide.md",
     "ToHopTuyenTinhKhongGianSinh/KhongGianVector/KhongGianVector.md",
     "ToHopTuyenTinhKhongGianSinh/KhongGianVector/KhongGianVectorCon.md",
@@ -189,17 +213,9 @@
     "MaTran/ThuocTinhMaTran/HangMaTran/HangMaTran2.md",
     "ToHopTuyenTinhKhongGianSinh/DocLap&PhuThuocTuyenTinh/DocLap&PhuThuocTuyenTinh.md",
     "ToHopTuyenTinhKhongGianSinh/DocLap&PhuThuocTuyenTinh/Nhap.canvas",
-    "ToHopTuyenTinhKhongGianSinh/DocLap&PhuThuocTuyenTinh/Images",
-    "ToHopTuyenTinhKhongGianSinh/DocLap&PhuThuocTuyenTinh",
     "ToHopTuyenTinhKhongGianSinh/KhongGianVector/CoSoKhongGianVecTor/TongHop.canvas",
-    "ToHopTuyenTinhKhongGianSinh/KhongGianVector/CoSoKhongGianVecTor/Images",
-    "ToHopTuyenTinhKhongGianSinh/KhongGianVector/CoSoKhongGianVecTor",
-    "ToHopTuyenTinhKhongGianSinh/ToHopTuyenTinh/Images/Images",
     "MaTran/MaTran (Matrix).md",
-    "ToHopTuyenTinhKhongGianSinh/KhongGianVector/Images",
-    "Untitled.md",
     "MaTran/ThuocTinhMaTran/ThuocTinhMaTran.md",
-    "ToHopTuyenTinhKhongGianSinh/KhongGianVector",
     "MaTran/ThuocTinhMaTran/CacLoaiMaTran/MaTranDonVi.md",
     "MaTran/ThuocTinhMaTran/PhepNhan/PhepNhan.md",
     "MaTran/ThuocTinhMaTran/PhepNhan/PhepNhan.canvas",
