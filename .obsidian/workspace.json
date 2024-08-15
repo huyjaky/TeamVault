@@ -11,11 +11,14 @@
             "id": "05497f11e2d39f49",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "DanhGiaPaper.md",
-                "mode": "source",
-                "source": false
+                "file": "Huy/Untitled.canvas",
+                "viewState": {
+                  "x": 824.8813472739594,
+                  "y": 1564.6539438511038,
+                  "zoom": -1.666666600439286
+                }
               }
             }
           },
@@ -97,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DanhGiaPaper.md",
+                "file": "Huy/Images/Pasted image 20240815220311.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DanhGiaPaper.md",
+                "file": "Huy/Images/Pasted image 20240815220311.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DanhGiaPaper.md"
+                "file": "Huy/Images/Pasted image 20240815220311.png"
               }
             }
           }
@@ -160,9 +163,15 @@
   },
   "active": "05497f11e2d39f49",
   "lastOpenFiles": [
-    "PhuongAnTrienKhai.canvas",
-    "DanhGiaPaper.md",
+    "Huy/Images/Pasted image 20240815220311.png",
+    "Huy/Images/Pasted image 20240815220120.png",
+    "Huy/Images/Pasted image 20240815213443.png",
+    "Huy/Images/Pasted image 20240815213416.png",
+    "Huy/Images",
     "Huy/Untitled.md",
+    "Huy/Untitled.canvas",
+    "DanhGiaPaper.md",
+    "PhuongAnTrienKhai.canvas",
     "Phuc/Phúc đẹp trai.md",
     "Han/Han.md",
     "Phuc",
@@ -174,7 +183,6 @@
     "Papers/Invariant Meets Specific A Scalable Harmful Memes Detection.pdf",
     "Papers/Invariant Meets Specific A Scalable Harmful Memes Detection.pdf.crdownload",
     "Papers/Toxic Memes A Survey of Computational Perspectives on the Detection and Explanation of.pdf",
-    "Papers/Toxic Memes A Survey of Computational Perspectives on the Detection and Explanation of.pdf.crdownload",
     "Untitled.canvas",
     "MaTran/vector/Vector.md",
     "Images/Pasted image 20240814231328.png",
@@ -184,12 +192,9 @@
     "Images/Pasted image 20240814225218.png",
     "Images/Pasted image 20240814224851.png",
     "Images/Pasted image 20240814224131.png",
-    "Images/Pasted image 20240814223712.png",
     "MaTran/vector/HeTrucChuan&MaTranTrucGiao/HeTrucChuan&MaTranTrucGiao.md",
     "MaTran/vector/HeTrucChuan&MaTranTrucGiao/TinhChat.canvas",
     "MaTran/vector/HeTrucChuan&MaTranTrucGiao/HeTrucChuan&MaTranTrucGiaoDocThem.md",
-    "MaTran/vector/HeTrucChuan&MaTranTrucGiao/Images/Pasted image 20240814104559.png",
-    "MaTran/vector/HeTrucChuan&MaTranTrucGiao/Images/Pasted image 20240814104449.png",
     "ToHopTuyenTinhKhongGianSinh/KhongGianVector/CoSoKhongGianVecTor/CoSoKhongGianVector.md",
     "ToHopTuyenTinhKhongGianSinh/KhongGianVector/CoSoKhongGianVecTor/CoSoKhongGianVectorDocThem.md",
     "ToHopTuyenTinhKhongGianSinh/KhongGianVector/KhongGianEuclide.md",
