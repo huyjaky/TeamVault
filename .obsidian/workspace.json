@@ -34,14 +34,11 @@
             "id": "e3ac309eea1a87ab",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "PhuongAnTrienKhai.canvas",
-                "viewState": {
-                  "x": 810.9753028849691,
-                  "y": 894.6276425800065,
-                  "zoom": -1.1643176052106958
-                }
+                "file": "DanhGiaPaper.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -112,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PhuongAnTrienKhai.canvas",
+                "file": "DanhGiaPaper.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PhuongAnTrienKhai.canvas",
+                "file": "DanhGiaPaper.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PhuongAnTrienKhai.canvas"
+                "file": "DanhGiaPaper.md"
               }
             }
           }
@@ -173,9 +170,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e3ac309eea1a87ab",
+  "active": "d2c35791f9e8e177",
   "lastOpenFiles": [
+    "Phuc",
+    "Han",
+    "Huy",
+    "Papers/Effectiveness of Synthetic Images in Violence Detection_preprint.pdf",
     "DanhGiaPaper.md",
+    "PhuongAnTrienKhai.canvas",
     "Papers/Towards Explainable Harmful Meme Detection through.pdf",
     "Papers/Towards Explainable Harmful Meme Detection through.pdf.crdownload",
     "Papers/Invariant Meets Specific A Scalable Harmful Memes Detection.pdf",
@@ -183,10 +185,6 @@
     "Papers/Toxic Memes A Survey of Computational Perspectives on the Detection and Explanation of.pdf",
     "Papers/Toxic Memes A Survey of Computational Perspectives on the Detection and Explanation of.pdf.crdownload",
     "Papers/DETECTING HARMFUL CONTENT ON ONLINE PLATFORMS WHAT PLATFORMS NEED VS. WHERE RESEARCH EFFORTS GO.pdf",
-    "Papers/DETECTING HARMFUL CONTENT ON ONLINE PLATFORMS WHAT PLATFORMS NEED VS. WHERE RESEARCH EFFORTS GO.pdf.crdownload",
-    "Papers/An Overview of Violence Detection Techniques_ Current%0AChallenges and Future Directions.pdf",
-    "Papers/An Overview of Violence Detection Techniques_ Current%0AChallenges and Future Directions.pdf.crdownload",
-    "PhuongAnTrienKhai.canvas",
     "Untitled.canvas",
     "MaTran/vector/Vector.md",
     "Images/Pasted image 20240814231328.png",
