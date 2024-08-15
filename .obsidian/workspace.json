@@ -36,7 +36,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DanhGiaPaper.md",
+                "file": "Phuc/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DanhGiaPaper.md",
+                "file": "Phuc/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DanhGiaPaper.md",
+                "file": "Phuc/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DanhGiaPaper.md"
+                "file": "Phuc/Untitled.md"
               }
             }
           }
@@ -172,6 +172,9 @@
   },
   "active": "d2c35791f9e8e177",
   "lastOpenFiles": [
+    "Huy/Untitled.md",
+    "Phuc/Untitled.md",
+    "Han/Untitled.md",
     "Phuc",
     "Han",
     "Huy",
@@ -184,7 +187,6 @@
     "Papers/Invariant Meets Specific A Scalable Harmful Memes Detection.pdf.crdownload",
     "Papers/Toxic Memes A Survey of Computational Perspectives on the Detection and Explanation of.pdf",
     "Papers/Toxic Memes A Survey of Computational Perspectives on the Detection and Explanation of.pdf.crdownload",
-    "Papers/DETECTING HARMFUL CONTENT ON ONLINE PLATFORMS WHAT PLATFORMS NEED VS. WHERE RESEARCH EFFORTS GO.pdf",
     "Untitled.canvas",
     "MaTran/vector/Vector.md",
     "Images/Pasted image 20240814231328.png",
@@ -223,8 +225,6 @@
     "MaTran/ThuocTinhMaTran/CacLoaiMaTran/Untitled.canvas",
     "MaTran/ThuocTinhMaTran/ChuyenVi/ChuyenVi.md",
     "MaTran/ThuocTinhMaTran/DinhThuc/TinhChatDinhThuc.md",
-    "MaTran/ThuocTinhMaTran/CacLoaiMaTran/MaTranDuongCheo.md",
-    "huy dep.md",
     "Untitled 1.canvas"
   ]
 }
