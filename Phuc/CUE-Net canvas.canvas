@@ -1,0 +1,37 @@
+{
+	"nodes":[
+		{"id":"911034337b7bff44","type":"group","x":685,"y":-1499,"width":1144,"height":814,"label":"Abstract"},
+		{"id":"56f435028802dbe7","type":"group","x":732,"y":-491,"width":878,"height":752,"label":"Module"},
+		{"id":"2256f0aa217e9ed4","x":-814,"y":-678,"width":613,"height":462,"type":"group","label":"Setted the new state-of-the-art :"},
+		{"id":"5ebc1a75f0cbbefe","type":"text","text":"spatial Cropping","x":1132,"y":-1479,"width":204,"height":116},
+		{"id":"3ea9e2aeb8768b19","type":"text","text":"Combine of","x":718,"y":-1393,"width":250,"height":60},
+		{"id":"215e6862352439da","type":"text","text":"UniformerV2 architecture (enhanced with a novel `Modified Efficient Additive Attention` mechanism)","x":1115,"y":-1321,"width":640,"height":182},
+		{"id":"3b3a48246d66a509","type":"text","text":"Focusing on both local and global spatio-temporal features","x":718,"y":-1094,"width":865,"height":81},
+		{"id":"1cf193481674f204","type":"text","text":"achieves state-of-the-art performance on","x":718,"y":-937,"width":397,"height":79},
+		{"id":"f1e513800b829c80","type":"text","text":"RWF-2000","x":1234,"y":-967,"width":201,"height":76},
+		{"id":"3130971c26f4b57e","type":"text","text":"RLVS","x":1234,"y":-799,"width":174,"height":50},
+		{"id":"cdb6942b436bd57d","type":"text","text":"5 main module","x":765,"y":-171,"width":250,"height":60},
+		{"id":"e363278fb90933b1","type":"text","text":"Local UniBlock V2","x":1151,"y":-111,"width":312,"height":50},
+		{"id":"f8b3b6d7004829ec","type":"text","text":"Global UniBlock V3","x":1151,"y":46,"width":312,"height":50},
+		{"id":"afeacf7421977292","type":"text","text":"Fusion Block","x":1089,"y":157,"width":250,"height":60},
+		{"id":"aa193bd5e99b9de7","type":"text","text":"Spatial Cropping Module","x":1089,"y":-461,"width":374,"height":50},
+		{"id":"fa80f0623b6dc817","type":"text","text":"3D Convolution Backbone","x":1151,"y":-314,"width":374,"height":50},
+		{"id":"6830022e6921b91c","type":"file","file":"Phuc/Images/On the RLVS dataset.png","x":-794,"y":-420,"width":400,"height":154},
+		{"id":"d0ab1e4b624d4e10","type":"file","file":"Phuc/Images/On the RWF-2000 dataset.png","x":-794,"y":-626,"width":400,"height":143},
+		{"id":"66ca7bddb1f94659","type":"text","text":"CUE-Net","x":-25,"y":-839,"width":229,"height":90}
+	],
+	"edges":[
+		{"id":"b67f197a6343ca67","fromNode":"3ea9e2aeb8768b19","fromSide":"right","toNode":"5ebc1a75f0cbbefe","toSide":"left"},
+		{"id":"33525eb6f9d5255e","fromNode":"3ea9e2aeb8768b19","fromSide":"right","toNode":"215e6862352439da","toSide":"left"},
+		{"id":"de1a35e0ac932730","fromNode":"cdb6942b436bd57d","fromSide":"right","toNode":"aa193bd5e99b9de7","toSide":"left"},
+		{"id":"4d4a3dcf149b0667","fromNode":"cdb6942b436bd57d","fromSide":"right","toNode":"fa80f0623b6dc817","toSide":"left"},
+		{"id":"f0bc377211d38c1c","fromNode":"cdb6942b436bd57d","fromSide":"right","toNode":"e363278fb90933b1","toSide":"left"},
+		{"id":"240e4d20e837f96d","fromNode":"cdb6942b436bd57d","fromSide":"right","toNode":"f8b3b6d7004829ec","toSide":"left"},
+		{"id":"9e942ba8e6550c78","fromNode":"cdb6942b436bd57d","fromSide":"right","toNode":"afeacf7421977292","toSide":"left"},
+		{"id":"9b2ebbd17709d4a0","fromNode":"66ca7bddb1f94659","fromSide":"right","toNode":"cdb6942b436bd57d","toSide":"left"},
+		{"id":"11a18032ab51be39","fromNode":"66ca7bddb1f94659","fromSide":"right","toNode":"911034337b7bff44","toSide":"left"},
+		{"id":"9d292f5c4c098b63","fromNode":"1cf193481674f204","fromSide":"right","toNode":"f1e513800b829c80","toSide":"left"},
+		{"id":"1040c1854c7ce7a9","fromNode":"1cf193481674f204","fromSide":"right","toNode":"3130971c26f4b57e","toSide":"left"},
+		{"id":"56e3068206068254","fromNode":"66ca7bddb1f94659","fromSide":"bottom","toNode":"2256f0aa217e9ed4","toSide":"right"}
+	]
+}

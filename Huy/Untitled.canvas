@@ -1,16 +1,16 @@
 {
 	"nodes":[
-		{"id":"f9f9df3589c080d1","x":-809,"y":-321,"width":1980,"height":1412,"type":"group","label":"abstract"},
-		{"id":"b7904fbaebf41370","x":1602,"y":-118,"width":1388,"height":868,"type":"group","label":"Overall how can deep learning use synthetic images"},
-		{"id":"f5429c15d48bb61d","x":26,"y":-70,"width":659,"height":305,"type":"text","text":"synthetic images (Tổng hợp dữ liệu - đánh label các thứ)\n-> This approach makes creation, ==generation== and collection of images\n\n-> synthetic images created by user have complete control over the parameters and truth label generation"},
-		{"id":"81a191700722c267","x":-521,"y":413,"width":699,"height":89,"type":"text","text":"generation of data examples which rarely occur naturally."},
-		{"id":"729052a7a16ee83e","x":-789,"y":-301,"width":316,"height":71,"type":"text","text":"lack of real data "},
-		{"id":"278dc30842e76c7b","x":-75,"y":783,"width":861,"height":288,"type":"text","text":"models trained using synthetic data still need to bridge the gap between synthetic and real [Tremblay et al. 2018]. Therefore, testing\nthe performance of such models on real world data is mandatory(bắt buộc).\n(mô hình cần thu hẹp khoảng cách giữa synthetic images và dữ liệu thực tế)"},
-		{"id":"d5f9cc8162873bb5","x":1619,"y":-98,"width":1016,"height":185,"type":"text","text":"datasets examples include: Hockey\ndataset [Nievas et al. 2011], Violent Flow [Hassner et al. 2012], Pelic-\nulas [Nievas et al. 2011], Real Life Violence Dataset (RLVD) [Soliman\net al. 2019] and Violent Scene Detection (VSD) [Demarty et al. 2015]."},
-		{"id":"2d9a22faf26d6a62","x":1970,"y":218,"width":665,"height":115,"type":"text","text":"firstly, we utilise syn-\nthetic images to perform a high level task of violence detection"},
-		{"id":"e9cb4432f8e49235","x":2195,"y":525,"width":772,"height":205,"type":"text","text":"Secondly, the trained model is tested on real world datasets to see\nif synthetic images can be effectively used for training deeper net-\nworks similar to other vision tasks."},
-		{"id":"3d1ad1e75ebaded0","x":445,"y":490,"width":682,"height":138,"type":"text","text":"a well balanced,\ndiverse and automatically labelled dataset can be created"},
-		{"id":"329c19758e683bc4","x":3489,"y":333,"width":723,"height":689,"type":"file","file":"Huy/Images/Pasted image 20240815220311.png"}
+		{"id":"f9f9df3589c080d1","type":"group","x":-809,"y":-321,"width":1980,"height":1412,"label":"abstract"},
+		{"id":"b7904fbaebf41370","type":"group","x":1602,"y":-118,"width":1388,"height":868,"label":"Overall how can deep learning use synthetic images"},
+		{"id":"f5429c15d48bb61d","type":"text","text":"synthetic images (Tổng hợp dữ liệu - đánh label các thứ)\n-> This approach makes creation, ==generation== and collection of images\n\n-> synthetic images created by user have complete control over the parameters and truth label generation","x":26,"y":-70,"width":659,"height":305},
+		{"id":"81a191700722c267","type":"text","text":"generation of data examples which rarely occur naturally.","x":-521,"y":413,"width":699,"height":89},
+		{"id":"729052a7a16ee83e","type":"text","text":"lack of real data ","x":-789,"y":-301,"width":316,"height":71},
+		{"id":"278dc30842e76c7b","type":"text","text":"models trained using synthetic data still need to bridge the gap between synthetic and real [Tremblay et al. 2018]. Therefore, testing\nthe performance of such models on real world data is mandatory(bắt buộc).\n(mô hình cần thu hẹp khoảng cách giữa synthetic images và dữ liệu thực tế)","x":-75,"y":783,"width":861,"height":288},
+		{"id":"d5f9cc8162873bb5","type":"text","text":"datasets examples include: Hockey\ndataset [Nievas et al. 2011], Violent Flow [Hassner et al. 2012], Pelic-\nulas [Nievas et al. 2011], Real Life Violence Dataset (RLVD) [Soliman\net al. 2019] and Violent Scene Detection (VSD) [Demarty et al. 2015].","x":1619,"y":-98,"width":1016,"height":185},
+		{"id":"2d9a22faf26d6a62","type":"text","text":"firstly, we utilise syn-\nthetic images to perform a high level task of violence detection","x":1970,"y":218,"width":665,"height":115},
+		{"id":"e9cb4432f8e49235","type":"text","text":"Secondly, the trained model is tested on real world datasets to see\nif synthetic images can be effectively used for training deeper net-\nworks similar to other vision tasks.","x":2195,"y":525,"width":772,"height":205},
+		{"id":"3d1ad1e75ebaded0","type":"text","text":"a well balanced,\ndiverse and automatically labelled dataset can be created","x":445,"y":490,"width":682,"height":138},
+		{"id":"329c19758e683bc4","type":"file","file":"Huy/Images/Pasted image 20240815220311.png","x":3489,"y":333,"width":723,"height":689}
 	],
 	"edges":[
 		{"id":"46fb1e8383c2fe17","fromNode":"729052a7a16ee83e","fromSide":"right","toNode":"f5429c15d48bb61d","toSide":"left","label":"compensated (Được bù đắp)"},
