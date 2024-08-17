@@ -4,46 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "a9f67b7a39c900df",
+        "id": "e984c8713d9785cb",
         "type": "tabs",
         "children": [
           {
-            "id": "3cc60de3e0f8a876",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "05497f11e2d39f49",
+            "id": "0e93ae3c76b6c167",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
-                "file": "PhuongAnTrienKhai.canvas",
+                "file": "Phuc/CUE-Net canvas.canvas",
                 "viewState": {
-                  "x": 3064.6484702922385,
-                  "y": 774.3735461553691,
-                  "zoom": -3.164317525737839
+                  "x": 1042.6823668349691,
+                  "y": -989.5668802661107,
+                  "zoom": -0.616245685465265
                 }
               }
             }
-          },
-          {
-            "id": "e3ac309eea1a87ab",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Phuc/CUE-net.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -109,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Phuc/CUE-net.md",
+                "file": "Phuc/CUE-Net canvas.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Phuc/CUE-net.md",
+                "file": "Phuc/CUE-Net canvas.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Phuc/CUE-net.md"
+                "file": "Phuc/CUE-Net canvas.canvas"
               }
             }
           }
@@ -170,13 +149,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e3ac309eea1a87ab",
+  "active": "0e93ae3c76b6c167",
   "lastOpenFiles": [
-    "DanhGiaPaper.md",
     "Phuc/CUE-net.md",
-    "PhuongAnTrienKhai.canvas",
-    "Phuc",
+    "Phuc/Images/On the RLVS dataset.png",
+    "Phuc/Images/On the RWF-2000 dataset.png",
+    "Phuc/CUE-Net canvas.canvas",
+    "Phuc/Images",
+    "Huy/Untitled.canvas",
     "Huy/Untitled.md",
+    "Han/Han.md",
+    "conflict-files-obsidian-git.md",
+    "DanhGiaPaper.md",
+    "PhuongAnTrienKhai.canvas",
+    "Images/Pasted image 20240813191418.png",
+    "Huy/Images/Pasted image 20240815213416.png",
+    "Huy/Images/Pasted image 20240815220311.png",
+    "Huy/Images/Pasted image 20240815220120.png",
+    "Huy/Images/Pasted image 20240815213443.png",
+    "Huy/Images",
+    "Phuc",
     "Huy",
     "Han/Untitled.md",
     "Han",
@@ -185,23 +177,14 @@
     "Papers/Towards Explainable Harmful Meme Detection through.pdf.crdownload",
     "Papers/Invariant Meets Specific A Scalable Harmful Memes Detection.pdf",
     "Papers/Invariant Meets Specific A Scalable Harmful Memes Detection.pdf.crdownload",
-    "Papers/Toxic Memes A Survey of Computational Perspectives on the Detection and Explanation of.pdf",
-    "Papers/Toxic Memes A Survey of Computational Perspectives on the Detection and Explanation of.pdf.crdownload",
     "Untitled.canvas",
     "MaTran/vector/Vector.md",
     "Images/Pasted image 20240814231328.png",
     "Images/Pasted image 20240814231300.png",
     "Images/Pasted image 20240814230503.png",
-    "Images/Pasted image 20240814225849.png",
-    "Images/Pasted image 20240814225218.png",
-    "Images/Pasted image 20240814224851.png",
-    "Images/Pasted image 20240814224131.png",
-    "Images/Pasted image 20240814223712.png",
     "MaTran/vector/HeTrucChuan&MaTranTrucGiao/HeTrucChuan&MaTranTrucGiao.md",
     "MaTran/vector/HeTrucChuan&MaTranTrucGiao/TinhChat.canvas",
     "MaTran/vector/HeTrucChuan&MaTranTrucGiao/HeTrucChuan&MaTranTrucGiaoDocThem.md",
-    "MaTran/vector/HeTrucChuan&MaTranTrucGiao/Images/Pasted image 20240814104559.png",
-    "MaTran/vector/HeTrucChuan&MaTranTrucGiao/Images/Pasted image 20240814104449.png",
     "ToHopTuyenTinhKhongGianSinh/KhongGianVector/CoSoKhongGianVecTor/CoSoKhongGianVector.md",
     "ToHopTuyenTinhKhongGianSinh/KhongGianVector/CoSoKhongGianVecTor/CoSoKhongGianVectorDocThem.md",
     "ToHopTuyenTinhKhongGianSinh/KhongGianVector/KhongGianEuclide.md",
@@ -221,9 +204,7 @@
     "MaTran/ThuocTinhMaTran/PhepNhan/PhepNhan.canvas",
     "MaTran/ThuocTinhMaTran/DinhThuc/Det() in matrix.md",
     "MaTran/ThuocTinhMaTran/CacLoaiMaTran/CacLoaiMaTran.md",
-    "MaTran/ThuocTinhMaTran/CacLoaiMaTran/MaTranTamGiac.md",
     "MaTran/ThuocTinhMaTran/CacLoaiMaTran/Untitled.canvas",
-    "MaTran/ThuocTinhMaTran/ChuyenVi/ChuyenVi.md",
     "Untitled 1.canvas"
   ]
 }
