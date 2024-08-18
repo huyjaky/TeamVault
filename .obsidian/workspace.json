@@ -4,18 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "cb182efb97efa63d",
+        "id": "54137206b7a8f0a6",
         "type": "tabs",
         "children": [
           {
-            "id": "3b08b866b5547961",
+            "id": "b7b3a51f7b28ae28",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "DanhGiaPaper.md",
-                "mode": "source",
-                "source": false
+                "file": "Phuc/CUE-Net canvas.canvas",
+                "viewState": {
+                  "x": 1474.7533844006564,
+                  "y": -932.595850253666,
+                  "zoom": -0.8905279426756433
+                }
               }
             }
           }
@@ -85,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DanhGiaPaper.md",
+                "file": "Phuc/CUE-Net canvas.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DanhGiaPaper.md",
+                "file": "Phuc/CUE-Net canvas.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DanhGiaPaper.md"
+                "file": "Phuc/CUE-Net canvas.canvas"
               }
             }
           }
@@ -146,17 +149,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3b08b866b5547961",
+  "active": "b7b3a51f7b28ae28",
   "lastOpenFiles": [
-    "Papers/Arun_Akash_2022_J._Phys.__Conf._Ser._2318_012003.pdf",
+    "Phuc/CUE-net.md",
     "DanhGiaPaper.md",
     "Phuc/CUE-Net canvas.canvas",
-    "Phuc/CUE-net.md",
+    "Papers/2209.11680v1.pdf",
     "Huy/Untitled.md",
+    "Papers/Arun_Akash_2022_J._Phys.__Conf._Ser._2318_012003.pdf",
+    "Papers/Towards Explainable Harmful Meme Detection through.pdf",
     "Huy/Untitled.canvas",
     "Papers/DETECTING HARMFUL CONTENT ON ONLINE PLATFORMS WHAT PLATFORMS NEED VS. WHERE RESEARCH EFFORTS GO.pdf",
     "PhuongAnTrienKhai.canvas",
-    "Papers/2209.11680v1.pdf",
     "Phuc/Images/On the RLVS dataset.png",
     "Phuc/Images/On the RWF-2000 dataset.png",
     "Phuc/Images",
@@ -173,7 +177,6 @@
     "Han/Untitled.md",
     "Han",
     "Papers/Effectiveness of Synthetic Images in Violence Detection_preprint.pdf",
-    "Papers/Towards Explainable Harmful Meme Detection through.pdf",
     "Untitled.canvas",
     "MaTran/vector/Vector.md",
     "Images/Pasted image 20240814231328.png",
