@@ -4,20 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "54137206b7a8f0a6",
+        "id": "5121da6f25515f57",
         "type": "tabs",
         "children": [
           {
-            "id": "b7b3a51f7b28ae28",
+            "id": "2d39acb26eeb6d3e",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
                 "file": "Phuc/CUE-Net canvas.canvas",
                 "viewState": {
-                  "x": 1990.6142382478379,
-                  "y": -23.36055971056109,
-                  "zoom": -0.8905279426756433
+                  "x": 870.0147433929873,
+                  "y": -187.72017362094982,
+                  "zoom": -1.9933484716279968
                 }
               }
             }
@@ -88,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Phuc/CUE-Net canvas.canvas",
+                "file": "Phuc/Images/CUE-Net.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Phuc/CUE-Net canvas.canvas",
+                "file": "Phuc/Images/CUE-Net.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Phuc/CUE-Net canvas.canvas"
+                "file": "Phuc/Images/CUE-Net.png"
               }
             }
           }
@@ -149,10 +149,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b7b3a51f7b28ae28",
+  "active": "2d39acb26eeb6d3e",
   "lastOpenFiles": [
-    "Phuc/CUE-net.md",
+    "Phuc/Images/CUE-Net.png",
     "Phuc/CUE-Net canvas.canvas",
+    "Phuc/CUE-net.md",
+    "Phuc/Images/UniFormerV2.png",
     "DanhGiaPaper.md",
     "Papers/2209.11680v1.pdf",
     "Huy/Untitled.md",
@@ -180,8 +182,6 @@
     "Untitled.canvas",
     "MaTran/vector/Vector.md",
     "Images/Pasted image 20240814231328.png",
-    "Images/Pasted image 20240814231300.png",
-    "Images/Pasted image 20240814230503.png",
     "MaTran/vector/HeTrucChuan&MaTranTrucGiao/HeTrucChuan&MaTranTrucGiao.md",
     "MaTran/vector/HeTrucChuan&MaTranTrucGiao/TinhChat.canvas",
     "MaTran/vector/HeTrucChuan&MaTranTrucGiao/HeTrucChuan&MaTranTrucGiaoDocThem.md",
