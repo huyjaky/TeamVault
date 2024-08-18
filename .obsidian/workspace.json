@@ -4,21 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "197bf9a4cdc90367",
+        "id": "cb182efb97efa63d",
         "type": "tabs",
         "children": [
           {
-            "id": "9a6c16838d16a5e7",
+            "id": "3b08b866b5547961",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Phuc/CUE-Net canvas.canvas",
-                "viewState": {
-                  "x": 1463.2278216511731,
-                  "y": -238.1449952937059,
-                  "zoom": -0.5758314170193568
-                }
+                "file": "DanhGiaPaper.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -88,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Phuc/CUE-Net canvas.canvas",
+                "file": "DanhGiaPaper.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Phuc/CUE-Net canvas.canvas",
+                "file": "DanhGiaPaper.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Phuc/CUE-Net canvas.canvas"
+                "file": "DanhGiaPaper.md"
               }
             }
           }
@@ -149,15 +146,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9a6c16838d16a5e7",
+  "active": "3b08b866b5547961",
   "lastOpenFiles": [
+    "Papers/Arun_Akash_2022_J._Phys.__Conf._Ser._2318_012003.pdf",
     "DanhGiaPaper.md",
+    "Phuc/CUE-Net canvas.canvas",
     "Phuc/CUE-net.md",
     "Huy/Untitled.md",
     "Huy/Untitled.canvas",
-    "Papers/Arun_Akash_2022_J._Phys.__Conf._Ser._2318_012003.pdf",
     "Papers/DETECTING HARMFUL CONTENT ON ONLINE PLATFORMS WHAT PLATFORMS NEED VS. WHERE RESEARCH EFFORTS GO.pdf",
-    "Phuc/CUE-Net canvas.canvas",
     "PhuongAnTrienKhai.canvas",
     "Papers/2209.11680v1.pdf",
     "Phuc/Images/On the RLVS dataset.png",
