@@ -6,6 +6,8 @@
 
 [...](https://www.kaggle.com/datasets/electron0zero/memegenerator-dataset)
 
+[không rõ nguồn =((](https://drive.google.com/drive/folders/1UXKquhbrh_aC48FeqY60TW6YXls9gAMD)
+
 [Đáng suy ngẫm](https://www.prio.org/data/32)
 
 [Người hải phòng :))](https://www.kaggle.com/datasets/jameslko/gun-violence-data)
