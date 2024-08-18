@@ -6,6 +6,8 @@
 
 [...](https://www.kaggle.com/datasets/electron0zero/memegenerator-dataset)
 
+[t không biết link tải ở đâu](https://ai.meta.com/tools/hatefulmemes/)
+
 [không rõ nguồn =((](https://drive.google.com/drive/folders/1UXKquhbrh_aC48FeqY60TW6YXls9gAMD)
 
 [Đáng suy ngẫm](https://www.prio.org/data/32)
