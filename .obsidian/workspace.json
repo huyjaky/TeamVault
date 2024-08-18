@@ -11,14 +11,9 @@
             "id": "ef9ce002b8a8533d",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "pdf",
               "state": {
-                "file": "Huy/Untitled.canvas",
-                "viewState": {
-                  "x": 1701.5,
-                  "y": 385,
-                  "zoom": -2.120649751758271
-                }
+                "file": "Papers/Arun_Akash_2022_J._Phys.__Conf._Ser._2318_012003.pdf"
               }
             }
           }
@@ -88,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Huy/Untitled.canvas",
+                "file": "Papers/Arun_Akash_2022_J._Phys.__Conf._Ser._2318_012003.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Huy/Untitled.canvas",
+                "file": "Papers/Arun_Akash_2022_J._Phys.__Conf._Ser._2318_012003.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Huy/Untitled.canvas"
+                "file": "Papers/Arun_Akash_2022_J._Phys.__Conf._Ser._2318_012003.pdf"
               }
             }
           }
@@ -152,16 +147,17 @@
   "active": "ef9ce002b8a8533d",
   "lastOpenFiles": [
     "DanhGiaPaper.md",
+    "Phuc/CUE-net.md",
+    "Papers/DETECTING HARMFUL CONTENT ON ONLINE PLATFORMS WHAT PLATFORMS NEED VS. WHERE RESEARCH EFFORTS GO.pdf",
+    "Phuc/CUE-Net canvas.canvas",
+    "Huy/Untitled.canvas",
+    "Huy/Untitled.md",
     "Papers/Arun_Akash_2022_J._Phys.__Conf._Ser._2318_012003.pdf",
     "PhuongAnTrienKhai.canvas",
     "Papers/2209.11680v1.pdf",
-    "Huy/Untitled.canvas",
-    "Phuc/CUE-Net canvas.canvas",
-    "Phuc/CUE-net.md",
     "Phuc/Images/On the RLVS dataset.png",
     "Phuc/Images/On the RWF-2000 dataset.png",
     "Phuc/Images",
-    "Huy/Untitled.md",
     "Han/Han.md",
     "conflict-files-obsidian-git.md",
     "Images/Pasted image 20240813191418.png",
@@ -176,7 +172,6 @@
     "Han",
     "Papers/Effectiveness of Synthetic Images in Violence Detection_preprint.pdf",
     "Papers/Towards Explainable Harmful Meme Detection through.pdf",
-    "Papers/Towards Explainable Harmful Meme Detection through.pdf.crdownload",
     "Untitled.canvas",
     "MaTran/vector/Vector.md",
     "Images/Pasted image 20240814231328.png",

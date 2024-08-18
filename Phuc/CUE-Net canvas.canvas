@@ -2,7 +2,7 @@
 	"nodes":[
 		{"id":"911034337b7bff44","type":"group","x":685,"y":-1499,"width":1144,"height":814,"label":"Abstract"},
 		{"id":"56f435028802dbe7","type":"group","x":732,"y":-491,"width":878,"height":752,"label":"Module"},
-		{"id":"2256f0aa217e9ed4","x":-814,"y":-678,"width":613,"height":462,"type":"group","label":"Setted the new state-of-the-art :"},
+		{"id":"2256f0aa217e9ed4","type":"group","x":-814,"y":-678,"width":613,"height":462,"label":"Setted the new state-of-the-art :"},
 		{"id":"5ebc1a75f0cbbefe","type":"text","text":"spatial Cropping","x":1132,"y":-1479,"width":204,"height":116},
 		{"id":"3ea9e2aeb8768b19","type":"text","text":"Combine of","x":718,"y":-1393,"width":250,"height":60},
 		{"id":"215e6862352439da","type":"text","text":"UniformerV2 architecture (enhanced with a novel `Modified Efficient Additive Attention` mechanism)","x":1115,"y":-1321,"width":640,"height":182},
