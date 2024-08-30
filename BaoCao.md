@@ -2,14 +2,14 @@
 
 - **Cách 1:** Hệ thống invariant and specific modality (ISM) sử dụng mạng nơ-ron đồ thị (Graph Neural Networks - GNN) với hai không gian đặc trưng khác nhau: một không gian đại diện chung cho cả hai loại dữ liệu (modality-invariant) và một không gian riêng cho từng loại dữ liệu (modality-specific).
 
-- **Cách 2:** sử dụng model CUE-net để giải quyết bài toán xác định hình ảnh bạo lực kết hợp với bộ dữ liệu đầu vào được kiểm soát từ indentify data cho khả năng xử lý hình ảnh tốt hơn bằng cách thay Q bằng q learning 
+- **Cách 2:** sử dụng model UniformerV2+MEAA để giải quyết bài toán xác định hình ảnh bạo lực kết hợp với bộ dữ liệu đầu vào được kiểm soát từ indentify data cho khả năng xử lý hình ảnh tốt hơn bằng cách thay Q bằng q learning 
 
 # 2. Giải pháp được chọn
-- **Giải pháp:** sử dụng mô hình cue-net kết hợp với mô hình ISM để cho ra khả năng xử lý ảnh cải thiện đáng kể so với model xử lý hình ảnh cũ của ISM
+- **Giải pháp:** sử dụng mô hình UniformerV2+MEAA kết hợp với mô hình ISM để cho ra khả năng xử lý ảnh cải thiện đáng kể so với model xử lý hình ảnh cũ của ISM
 
 - **Lý do chọn:** 
 	- Giải pháp này cung cấp sự kết hợp giữa modality-invariant (giảm khoảng cách giữa các phương thức) và modality-specific (nắm bắt các đặc điểm riêng biệt của từng phương thức). Điều này giúp tạo ra một cái nhìn toàn diện về meme và tăng cường khả năng phát hiện meme độc hại so với các mô hình khác. 
-	- Khả năng nhận diện ảnh độc hại của cue-net cao
+	- Khả năng nhận diện ảnh độc hại của UniformerV2+MEA cao
 	- Thử nghiệm trên năm bộ dữ liệu công khai cho thấy khung ISM đề xuất cải thiện đáng kể so với các phương pháp hiện có, đồng thời đạt hiệu suất cạnh tranh trong việc phát hiện meme độc hại.
 
 - ***Sơ đồ:*** ==***HUY NHỚ LÀM***==
@@ -26,7 +26,7 @@
 
 # 3.Lựa chọn và Huấn luyện mô hình
 
-- **Mô hình chọn lựa:** ISM dual-stream (CLIP, ALBEF, BLIP) và CUE-net.
+- **Mô hình chọn lựa:** ISM dual-stream (CLIP, ALBEF, BLIP) và UniformerV2+MEAA.
 
 - **Lý do chọn:** Các mô hình này cung cấp khả năng phân tích sâu và tương tác giữa các phương thức, tạo điều kiện thuận lợi cho việc phát hiện meme độc hại.
 
