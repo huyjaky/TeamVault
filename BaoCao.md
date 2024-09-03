@@ -103,8 +103,10 @@
 
 - **Mã nguồn ISM:** https://github.com/caskcsg/ISM
 - **Mã nguồn BLIP-2:** https://github.com/huggingface/transformers/blob/main/src/transformers/models/blip_2/modeling_blip_2.py?fbclid=IwZXh0bgNhZW0CMTAAAR1JCGGaRktFc0RMWsFTlbzHQH2aXdnF8wyuQdz3NfBxRNYiT5_XawkjjgI_aem_6eK59qx5RUshMPG5YJ2szw
-- Scrabbing code Offense meme: https://github.com/bharathichezhiyan/Multimodal-Meme-Classification-Identifying-Offensive-Content-in-Image-and-Text
-- 
+- **Scrabbing code Offense meme:** https://github.com/bharathichezhiyan/Multimodal-Meme-Classification-Identifying-Offensive-Content-in-Image-and-Text
+- **Dữ liệu từ CC12M**: https://storage.googleapis.com/conceptual_12m/cc12m.tsv
 - **Dữ liệu từ Hateful Memes Challenge:** https://www.kaggle.com/datasets/williamberrios/hateful-memes
 - **Dữ liệu từ Offense meme**: https://drive.google.com/drive/folders/1GGy63-KlrSLjhpbTNGV-ObS_M4JMxeLr
-- 
+- **Dữ liệu xin từ LAION400M** :https://laion.ai/dataset-requests/
+- **Dữ liệu từ MET-Meme:A Multi-modal Meme Dataset Rich in Metaphors:** https://www.kaggle.com/datasets/liaolianfoka/met-meme/data
+- **Dữ liệu từ HarMeme Images:** https://drive.google.com/file/d/1aMvOHACrG5SgMl4tm9BP1VTiqv8zFn9b/view
