@@ -14,8 +14,8 @@
 	-  Thử nghiệm trên dữ liệu công khai cho thấy khung ISM, BLIP-2 đề xuất cải thiện đáng kể so với các phương pháp hiện có, đồng thời đạt hiệu suất cạnh tranh trong việc phát hiện meme độc hại.
 
 - ***Sơ đồ:*** 
-![Lmao text](./Images/test.png)
-![[Screenshot 2024-09-02 205647.png]]
+![Overview map](./Images/Screenshot%202024-09-02%20205647.png)
+
 
 # 3.Thu thập & Phân tích dữ liệu & Tiền xử lý dữ liệu & Tăng cường dữ liệu
 - **Thu thập dữ liệu:** 
@@ -28,7 +28,9 @@
 
 - **Minh họa:**
 
-![[Pasted image 20240902220150.png]]
+![Pasted image 20240902220150](./Images/Pasted%20image%2020240902220150.png)
+
+
 
 # 4.Lựa chọn và Huấn luyện mô hình
 
@@ -38,9 +40,11 @@
 
 - **Kiến trúc mô hình:** 
 
-![[Pasted image 20240902212024.png]]
+![Pasted image 20240902212024](./Images/Pasted%20image%2020240902212024.png)
 
-![[Pasted image 20240902084316.png]]
+
+![Pasted image 20240902084316](./Images/Pasted%20image%2020240902084316.png)
+
 
 - **Tham số huấn luyện:** 
 	-  **Learning Rate:** Tốc độ học xác định kích thước của các bước mà mô hình thực hiện để cập nhật trọng số trong mỗi lần lặp. Tốc độ học quá cao mô hình không hội tụ hoặc hội tụ không ổn định, trong khi tốc độ học quá thấp làm quá trình huấn luyện chậm và không đạt được tối ưu.
