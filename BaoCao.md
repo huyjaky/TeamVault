@@ -34,7 +34,7 @@
 
 # 4.Lựa chọn và Huấn luyện mô hình
 
-- **Mô hình chọn lựa:** ISM dual-stream (CLIP, ALBEF, BLIP).
+- **Mô hình chọn lựa:** đầu vào BLIP-2, đầu ra ISM dual-stream.
 
 - **Lý do chọn:** Các mô hình này cung cấp khả năng phân tích sâu và tương tác giữa các phương thức, tạo điều kiện thuận lợi cho việc phát hiện meme độc hại.
 
