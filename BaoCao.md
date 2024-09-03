@@ -14,7 +14,7 @@
 	-  Thử nghiệm trên dữ liệu công khai cho thấy khung ISM, BLIP-2 đề xuất cải thiện đáng kể so với các phương pháp hiện có, đồng thời đạt hiệu suất cạnh tranh trong việc phát hiện meme độc hại.
 
 - ***Sơ đồ:*** 
-
+![Lmao text](test.png)
 ![[Screenshot 2024-09-02 205647.png]]
 
 # 3.Thu thập & Phân tích dữ liệu & Tiền xử lý dữ liệu & Tăng cường dữ liệu
@@ -32,7 +32,7 @@
 
 # 4.Lựa chọn và Huấn luyện mô hình
 
-- **Mô hình chọn lựa:** ISM dual-stream (CLIP, ALBEF, BLIP) và UniformerV2+MEAA.
+- **Mô hình chọn lựa:** ISM dual-stream (CLIP, ALBEF, BLIP).
 
 - **Lý do chọn:** Các mô hình này cung cấp khả năng phân tích sâu và tương tác giữa các phương thức, tạo điều kiện thuận lợi cho việc phát hiện meme độc hại.
 
