@@ -1,0 +1,3 @@
+-> Hình ảnh không chữ là không cần thiết nữa đấy cho phần train hình ảnh bạo lực luôn -> train có chữ thôi
+-> ISM đang bị lỗi có thể đổi sang phương thức khác đơn giản hơn
+-> BLIP-3 đang là mô hình multi-model tiềm năng
